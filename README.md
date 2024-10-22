@@ -8,9 +8,9 @@
 
   ## Features
 
-  * Funcionalidad para agregar personajes en tiempo real en el website.
+  * Funcionalidad para agregar personajes en tiempo real en el website. En construcción.
   * Radar que sigue la lógica de la aplicación programada en lenguaje Dart.
-  * Funcionalidad que realizará reconocimiento y arrojará un personaje de animé o de películas según sus coincidencias.
+  * Funcionalidad que realizará reconocimiento y arrojará un personaje de animé o de películas según sus coincidencias. En construcción.
   * API para compartir desde el local, las descripciones.
   * Manejo de Servidores para implementar las funcionalidades en que se suben las fotos.
 
