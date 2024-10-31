@@ -9,7 +9,7 @@
   ## Features
 
   * Agregar personajes tus propios personajes.
-  * Radar que sigue la lógica de mi MobileApp_1.
+  * Radar que sigue la lógica de mi MobileApp.
   * Funcionalidad que realizará reconocimiento y arrojará un personaje de animé o de películas según sus coincidencias. En construcción.
 
 <p></p>
