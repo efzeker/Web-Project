@@ -8,8 +8,8 @@
 
   ## Features
 
-  * Funcionalidad para agregar personajes en tiempo real en el website. En construcción.
-  * Radar que sigue la lógica de la aplicación programada en lenguaje Dart.
+  * Agregar personajes tus propios personajes.
+  * Radar que sigue la lógica de mi MobileApp_1.
   * Funcionalidad que realizará reconocimiento y arrojará un personaje de animé o de películas según sus coincidencias. En construcción.
 
 <p></p>
