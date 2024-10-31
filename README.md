@@ -11,8 +11,6 @@
   * Funcionalidad para agregar personajes en tiempo real en el website. En construcción.
   * Radar que sigue la lógica de la aplicación programada en lenguaje Dart.
   * Funcionalidad que realizará reconocimiento y arrojará un personaje de animé o de películas según sus coincidencias. En construcción.
-  * API para compartir desde el local, las descripciones.
-  * Manejo de Servidores para implementar las funcionalidades en que se suben las fotos.
 
 
 <img src="https://firebasestorage.googleapis.com/v0/b/dexterprojectid.appspot.com/o/clientes%2FhomeReact.png?alt=media&token=906ae561-5f8c-4957-ad1b-65149e226f00" />
